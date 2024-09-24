@@ -4,9 +4,9 @@ My name is Sjur, and I'm a newly graduated frontend and mobile developer. My pas
 
 - 🔭 I’m currently working on a next.js duscussion forum
 - 🌱 I’m currently learning Next.js, Sanity, Relatude, cloud-services (Azure and Google Cloud Platform)
-- 📱 My skills is  Swift and Swift.UI, and Kotlin and JetPack Compose. Is also has experience with React Native.
-- 💻 My skilss is HTML/CSS/Javascript, React JS, Next.js, Tailwind
-- 🤓 Other skills: SQL, Python, Java, GoLang, Python
+- 📱 Swift and Swift.UI, and Kotlin and JetPack Compose. Is also has experience with React Native.
+- 💻 HTML/CSS/Javascript, React JS, Next.js, Tailwind, HTMX
+- 🤓 SQL(MySQL, PostgresSQL), Python, Java, GoLang 
 
 
 
