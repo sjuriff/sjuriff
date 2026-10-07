@@ -2,8 +2,6 @@
 
 My name is Sjur, and I'm a newly graduated frontend and mobile developer. My passion is to create user-friendly and aesthetically pleasing applications with a responsive design and interactivity that gives users a seamless experience.
 
-- 🔭 I’m currently working on a next.js webpage (www.anteambulo.no/)
-- 🌱 I’m currently learning  Sanity, Relatude, cloud-services (Azure and Google Cloud Platform), Kubernetes and Docker
 - 📱 Swift and Swift.UI,Kotlin and JetPack Compose and React Native.
 - 💻 HTML/CSS/Javascript, React JS, Next.js, Tailwind, HTMX
 - 🤓 SQL(MySQL, PostgresSQL), Python, Java, GoLang, C# 
